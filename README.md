@@ -23,4 +23,4 @@ session management and goal monitoring.
 - No frameworks — pure HTML/CSS/JS
 
 ## Built by
-JR-Builds · Netherlands · 2025
+JR-Builds · Netherlands · 2026
